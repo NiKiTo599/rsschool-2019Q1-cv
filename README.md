@@ -1,1 +1,1 @@
-https://github.com/NiKiTo599/rsschool-2019Q1-cv/blob/gh-pages/cv.md
+https://github.com/NiKiTo599/rsschool-2019Q1-cv/cv
