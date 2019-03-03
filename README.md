@@ -1,1 +1,1 @@
-https://NiKiTo599/rsschool-2019Q1-cv/cv
+https://NiKiTo599.github.io/rsschool-2019Q1-cv/cv
